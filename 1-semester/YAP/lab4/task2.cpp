@@ -8,15 +8,21 @@ int main() {
     cout << "Введите размер массива: ";
     cin >> n;
 
+    if (n <= 0) {
+        cout << "Размер массива должен быть положительным.\n";
+        return 0;
+    }
+
     vector<int> arr(n);
-    cout << "Введите элементы массива:" << endl;
-    for (int i = 0; i < n; i++) {
+    cout << "Введите элементы массива:\n";
+    for (int i = 0; i < n; ++i) {
         cin >> arr[i];
     }
 
-    int firstZero = -1, lastZero = -1;
+    int firstZero = -1;
+    int lastZero = -1;
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; ++i) {
         if (arr[i] == 0) {
             if (firstZero == -1) {
                 firstZero = i;
@@ -27,12 +33,12 @@ int main() {
 
     int sum = 0;
     if (firstZero != -1 && firstZero != lastZero) {
-        for (int i = firstZero + 1; i < lastZero; i++) {
+        for (int i = firstZero + 1; i < lastZero; ++i) {
             sum += arr[i];
         }
     }
 
-    cout << "Сумма элементов между первым и последним нулевым элементом: " << sum << endl;
+    cout << "Сумма элементов между первым и последним нулевым элементом: " << sum << '\n';
 
     return 0;
 }
