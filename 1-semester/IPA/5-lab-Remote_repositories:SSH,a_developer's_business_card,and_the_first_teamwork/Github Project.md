@@ -1,0 +1,1 @@
+https://github.com/kiruimaru/google-search-core
