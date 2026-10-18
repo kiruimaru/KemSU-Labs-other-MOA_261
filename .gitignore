@@ -1,1 +1,5 @@
+# Obsidian configurations 
 .obisidian/
+
+# Obsidian workspace settings
+.obsidian/workspace.json
