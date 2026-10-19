@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Conventional Commits — соглашение о виде коммитов.md",
+                "file": "Лекции/История России/История России 19.10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conventional Commits — соглашение о виде коммитов"
+              "title": "История России 19.10"
             }
           }
         ],
@@ -61,7 +61,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -194,31 +194,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
   "active": "bd1faf9fdd685f60",
   "lastOpenFiles": [
-    "Github Project.md",
     "База знаний/Conventional Commits — соглашение о виде коммитов.md",
-    "Лекции/Языки программирования/лекция 14.09.md",
-    "Лекции/Языки программирования/Языки программирования 12.10.md",
-    "Лекции/История России/История России 12.10.md",
+    "Лекции/История России/История России 19.10.md",
+    "База знаний/Git комманды.md",
     "Лекции/Информатика/лекция 14.09.md",
     "Лекции/Информатика/Информатика 12.10.md",
+    "Лекции/Языки программирования/Языки программирования 12.10.md",
+    "Github Project.md",
+    "Лекции/Языки программирования/лекция 14.09.md",
+    "Лекции/История России/История России 12.10.md",
     "Лекции/Языки программирования",
     "Лекции/История России",
     "Лекции/Информатика",
     "Лекции",
     "База знаний/Шпаргалка MathJax.md",
     "База знаний/Типы ЯП.md",
-    "База знаний/Git комманды.md",
     "База знаний",
     "Z.md"
   ]
