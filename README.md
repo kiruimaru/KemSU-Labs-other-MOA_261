@@ -25,3 +25,9 @@ KemSU-Labs-other-MOA_261/
 - Notes: Obsidian
 - DOCX: Google Docs, WordCraft, LibreOffice
 - AI Agents: Claude Code (чаще Sonnet, реже Opus)
+```
+
+## Contributors
+
+- [@kiruimaru](https://github.com/kiruimaru) - основной автор и студент КемГУ
+- [Claude Sonnet 5](https://www.anthropic.com/claude) - AI-ассистент, помощник в написании кода, отладке, и иногда разрешении git-конфликтов 🤖
