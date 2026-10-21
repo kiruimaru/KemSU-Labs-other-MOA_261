@@ -30,4 +30,6 @@ KemSU-Labs-other-MOA_261/
 ## Contributors
 
 - [@kiruimaru](https://github.com/kiruimaru) - основной автор и студент КемГУ
-- [Claude Sonnet 5](https://www.anthropic.com/claude) - AI-ассистент, помощник в написании кода, отладке, и иногда разрешении git-конфликтов 🤖
+- **Claude Fable 5.1** - Tech Lead & Senior Developer, архитектурные решения и code review 🎯
+- **Claude Opus 5.5** - Senior Developer, сложные задачи и оптимизация 🔥
+- **Claude Sonnet 5** - Middle Developer, основная разработка и рефакторинг 🤖
